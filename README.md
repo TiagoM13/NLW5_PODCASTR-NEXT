@@ -2,7 +2,7 @@
 
 Projeto Podcastr com Next.js - NLW 5° edição
 
-# Sobre o Projeto - Podcastr :pencil:
+## Sobre o Projeto - Podcastr :pencil:
 
 Este projeto é um podcast, a aplicação conta com uma pagina inicial, com um player e uma lista de podcast, o player contém todas as funcionalidades, embaralhar episódios aleatórios, próximo e anterior, repetir episódio, play e pause. Todas as funcionalidades de um player comum.
 
