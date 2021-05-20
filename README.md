@@ -1,6 +1,6 @@
 # Projeto NLW 5° :clipboard:  
 
-    Projeto Podcastr com Next.js - NLW 5° edição
+Projeto Podcastr com Next.js - NLW 5° edição
 
 # Sobre o Projeto - Podcastr :pencil:
 
@@ -11,9 +11,13 @@ Também contém uma página que mostra a descrição de um episódio, assim pode
 ## Layout 
 
 <h3>Página principal do Podcast</h3>
+<p>Nesta imagem podemos ver o layout da aplicação do Podcast.</p>
+
 <img src="./public/Home_Podcastr.png" alt="Imagem da Aplicação"/>
 
 <h3>Podcast com Player ativo</h3>
+<p>Nesta imagem podemos ver o player do podcast com um episódio tocando.</p>
+
 <img src="./public/Home_Podcastr-2.png" alt="Imagem da Aplicação"/>
 
 ## Tecnologias :wrench:
