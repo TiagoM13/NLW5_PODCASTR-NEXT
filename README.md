@@ -11,10 +11,10 @@ Também contém uma página que mostra a descrição de um episódio, assim pode
 ## Layout 
 
 <h3>Página principal do Podcast</h3>
-<img scr="../public/Home_Podcastr.png" alt="Imagem da Aplicação"/>
+<img src="./public/Home_Podcastr.png" alt="Imagem da Aplicação"/>
 
 <h3>Podcast com Player ativo</h3>
-<img scr="../public/Home_Podcastr-2.png" alt="Imagem da Aplicação"/>
+<img src="./public/Home_Podcastr-2.png" alt="Imagem da Aplicação"/>
 
 ## Tecnologias :wrench:
 
